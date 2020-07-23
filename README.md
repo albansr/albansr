@@ -26,12 +26,12 @@ const alban = {
   tools: ['Docker', 'Kubernetes'],
   frontEnd: ['react', 'vue', 'angular', 'svelte'],
   srver: ['Google Cloud', 'AWS'],
-  databases: ['hadoop', 'mongo db', 'cassandra', 'hbase', 'redshift', 'postgre sql', 'my sql', ]
+  databases: ['hadoop', 'mongo db', 'cassandra', 'hbase', 'redshift', 'postgre sql', 'my sql', ],
   architecture: ['microservices', "domain driven desing", 'clean arquitecture'],
   techCommunities: {
                      CTO: 'Kbox sales tools'
                    },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am focused on researching and developing more on AI applied to health"
 }
 ```
 
