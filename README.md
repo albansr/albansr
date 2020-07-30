@@ -6,7 +6,6 @@ Although in his day I was trained in the business world, I am a technology & dat
 
 ```javascript
 const alban = {
-  pronouns: "He" | "Him",
   tecnologies: ['python', 'scala', 'go', 'javascript', 'Typescript', 'php'],
   tools: ['Docker', 'Kubernetes'],
   frontEnd: ['react', 'vue', 'angular', 'svelte'],
