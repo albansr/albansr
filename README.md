@@ -6,16 +6,12 @@ Although in his day I was trained in the business world, I am a technology & dat
 
 ```javascript
 const alban = {
-  tecnologies: ['python', 'scala', 'go', 'javascript', 'Typescript', 'php'],
+  tecnologies: ['python', 'scala', 'go', 'javascript', 'Typescript', 'php' , 'java'],
   tools: ['Docker', 'Kubernetes'],
   frontEnd: ['react', 'vue', 'angular', 'svelte'],
   srver: ['Google Cloud', 'AWS'],
   databases: ['hadoop', 'mongo db', 'cassandra', 'hbase', 'redshift', 'postgre sql', 'mysql', 'aurora', 'dynamo db', 'sql server'],
   architecture: ['microservices', "domain driven desing", 'clean arquitecture'],
-  techCommunities: {
-                     CTO: 'Kbox sales tools'
-                   },
- challenge: "I am focused on researching and developing more on AI applied to health"
 }
 ```
 
